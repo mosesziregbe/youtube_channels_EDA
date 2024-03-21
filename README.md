@@ -21,6 +21,6 @@ This dataset includes several months (and counting) of data on daily trending Yo
 7.  Is there a relationship between the number of comments and the number of views?
 8.  Do videos with disabled comments or ratings tend to have more or fewer views?
 
-Click here to see the youtube channel EDA
+[Click here](https://github.com/mosesziregbe/youtube_channels_EDA/blob/main/Youtube_channels_analysis.ipynb) to see the youtube channel analysis
 
    
